@@ -1,4 +1,3 @@
-# wisepanda.github.io
 ## Hi Schoole of code!! 
 After struggling for a couple of days with GitHub I finally manged to upload my tribute page!
 I am not sure if I have done it the right way as I have uploaded the html file through the website and not the command line, but I feel satisfied for the work done!
